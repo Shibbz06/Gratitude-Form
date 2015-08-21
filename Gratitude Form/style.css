@@ -1,0 +1,52 @@
+p {
+    display: inline;
+    font-size: 150%
+}
+
+form {
+    display: inline
+}
+
+header, .to, main, footer {
+    margin: left;
+    width: 60%;
+    border:3px solid #999999;
+    padding: 10px;
+}
+
+.top, .left-side {
+    margin: right;
+    width: 40%
+    border:3px solid #999999;
+    padding: 10px;
+}
+header, .form_number, .date {
+    display: inline-block;
+}
+
+.form_number {
+    width: 10%;
+}
+
+.date {
+    width: 20%;
+}
+
+div {
+    margin: left;
+    width: 40%;
+    border:3px solid #999999;
+    padding: 10px;
+}
+
+h5, h1, h2 {
+    text-align: center;
+}
+
+.extent, .cause, .virtues, .notes {
+    width: 30%;
+}
+
+.to, .extent, main, .cause, .virtues, .notes, .footer {
+    display: inline-block;
+}
